@@ -1,0 +1,1 @@
+<h4><?php echo single_post_title();?></h4>
